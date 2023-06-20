@@ -6,17 +6,18 @@
 
 ### ==================  second step ===================== #####
 
-# run command  ( npm install )
+### run command  ( npm install )
 
 ### ==================  third step ===================== #####
 
-# setup mongo database used local url vs mongodb cluster  (I have connected the local url of mongodb, you can do the same of the cluster if you want.
+### setup mongo database used local url vs mongodb cluster  (I have connected the local url of mongodb, you can do the same of the cluster if you want.
 )
 
 
 ### ==================  fourth step ===================== #####
-run command (npm run dec ) || npm start 
-if your server is successfully started 
+### run command (npm run dec ) || npm start 
+### if your server is successfully started 
+### please read and follow http request folder 
 ### ==================  first step ===================== #####
 ### ==================  first step ===================== #####
 ### ==================  first step ===================== #####
