@@ -25,14 +25,14 @@
 ### post request
 ![post request](./assets/post.png)
 
-### post request
+### get request
 ![get request](./assets/get.png)
 
-### post request
-![getall request](./assets/getall.png.png)
+### getAll request
+![getAll request](./assets/getall.png.png)
 
-### post request
+### patch request
 ![patch request](./assets/patch.png)
 
-### post request
+### delete request
 ![delete request](./assets/delete.png)
