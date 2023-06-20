@@ -18,8 +18,21 @@
 ### run command (npm run dec ) || npm start 
 ### if your server is successfully started 
 ### please read and follow http request folder 
-### ==================  first step ===================== #####
-### ==================  first step ===================== #####
-### ==================  first step ===================== #####
-### ==================  first step ===================== #####
-### ==================  first step ===================== #####
+
+
+### ======================================= #####
+
+### post request
+![post request](./assets/post.png)
+
+### post request
+![get request](./assets/get.png)
+
+### post request
+![getall request](./assets/getall.png.png)
+
+### post request
+![patch request](./assets/patch.png)
+
+### post request
+![delete request](./assets/delete.png)
