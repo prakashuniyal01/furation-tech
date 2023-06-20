@@ -2,7 +2,7 @@ POST http://localhost:5000/api/item/add
 Content-Type: application/json
 
 {
-   "title": "sid ",
+   "title": "prakash ",
    "author": "w",
    "genre": "w",
    "price": 2,
@@ -14,7 +14,7 @@ GET http://localhost:5000/api/item
 Content-Type: application/json
 
 {
-   "title": "sid ",
+   "title": "prakash ",
    "author": "w",
    "genre": "w",
    "price": 2,
@@ -22,11 +22,11 @@ Content-Type: application/json
 }
 
 ###
-GET http://localhost:5000/api/item/64907e326a692987237b8dd8
+GET http://localhost:5000/api/item/(items id)
 Content-Type: application/json
 
 {
-   "title": "sid ",
+   "title": "prakash ",
    "author": "w",
    "genre": "w",
    "price": 2,
@@ -34,7 +34,7 @@ Content-Type: application/json
 }
 
 ###
-PATCH  http://localhost:5000/api/item/64907e326a692987237b8dd8
+PATCH  http://localhost:5000/api/item/(items id)
 Content-Type: application/json
 
 {
@@ -42,7 +42,7 @@ Content-Type: application/json
 }
 
 ###
-DELETE   http://localhost:5000/api/item/64907e326a692987237b8dd8
+DELETE   http://localhost:5000/api/item/(items id)
 Content-Type: application/json
 
 {

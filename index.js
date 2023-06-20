@@ -26,7 +26,7 @@ app.use((error, req, res, next) => {
       });
       
 app.listen(port, () =>{
-    logger.info(`server reuuning on:${port}`);
+    logger.info(`server start on:${port}`);
 }); 
 
 
