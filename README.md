@@ -15,7 +15,7 @@
 
 
 ### ==================  fourth step ===================== #####
-### run command (npm run dec ) || npm start 
+### run command (npm run dev ) || npm start 
 ### if your server is successfully started 
 ### please read and follow http request folder 
 
